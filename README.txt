@@ -24,3 +24,5 @@ Right mouse button = Stops rotating the camera
 W, A, S, D = Moving the camera
 
 Thank you for downloading this humble project! :)
+
+video here: http://www.youtube.com/watch?v=ycSOnGzbNO4
